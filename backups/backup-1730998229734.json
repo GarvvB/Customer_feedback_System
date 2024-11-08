@@ -1,0 +1,248 @@
+{
+  "timestamp": "2024-11-07T16:50:29.733Z",
+  "data": {
+    "customers": [
+      {
+        "_id": "672cd0c162e63bf1fab9cf4e",
+        "name": "Amey",
+        "email": "me@gmaio.com",
+        "createdAt": "2024-11-07T14:37:53.347Z",
+        "__v": 0
+      }
+    ],
+    "feedbacks": [
+      {
+        "_id": "672cd0fecb333e2668349602",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:38:54.202Z",
+        "timestamp": "2024-11-07T14:38:54.202Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd1288b534ba1944db60d",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:36.599Z",
+        "timestamp": "2024-11-07T14:39:36.600Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd1288b534ba1944db60f",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:36.953Z",
+        "timestamp": "2024-11-07T14:39:36.953Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd1298b534ba1944db611",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:37.161Z",
+        "timestamp": "2024-11-07T14:39:37.162Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd1298b534ba1944db615",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:37.483Z",
+        "timestamp": "2024-11-07T14:39:37.483Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd1298b534ba1944db617",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:37.823Z",
+        "timestamp": "2024-11-07T14:39:37.823Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12a8b534ba1944db619",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:38.010Z",
+        "timestamp": "2024-11-07T14:39:38.010Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12a8b534ba1944db61b",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:38.165Z",
+        "timestamp": "2024-11-07T14:39:38.165Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12a8b534ba1944db61d",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:38.326Z",
+        "timestamp": "2024-11-07T14:39:38.326Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12a8b534ba1944db61f",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:38.474Z",
+        "timestamp": "2024-11-07T14:39:38.474Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12a8b534ba1944db621",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:38.639Z",
+        "timestamp": "2024-11-07T14:39:38.639Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12a8b534ba1944db623",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:38.804Z",
+        "timestamp": "2024-11-07T14:39:38.804Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12a8b534ba1944db625",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:38.967Z",
+        "timestamp": "2024-11-07T14:39:38.967Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12b8b534ba1944db627",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:39.113Z",
+        "timestamp": "2024-11-07T14:39:39.113Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12b8b534ba1944db629",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:39.266Z",
+        "timestamp": "2024-11-07T14:39:39.266Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12b8b534ba1944db62b",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:39.412Z",
+        "timestamp": "2024-11-07T14:39:39.412Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12b8b534ba1944db62d",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:39.558Z",
+        "timestamp": "2024-11-07T14:39:39.558Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12b8b534ba1944db62f",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:39.696Z",
+        "timestamp": "2024-11-07T14:39:39.696Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12b8b534ba1944db631",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:39.824Z",
+        "timestamp": "2024-11-07T14:39:39.824Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12b8b534ba1944db633",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:39.961Z",
+        "timestamp": "2024-11-07T14:39:39.961Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12c8b534ba1944db635",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:40.086Z",
+        "timestamp": "2024-11-07T14:39:40.086Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12c8b534ba1944db637",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:40.240Z",
+        "timestamp": "2024-11-07T14:39:40.240Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12c8b534ba1944db639",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:40.382Z",
+        "timestamp": "2024-11-07T14:39:40.382Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cd12c8b534ba1944db63b",
+        "message": "Great Feedback",
+        "satisfaction": 4,
+        "createdAt": "2024-11-07T14:39:40.527Z",
+        "timestamp": "2024-11-07T14:39:40.527Z",
+        "__v": 0
+      },
+      {
+        "_id": "672ce8e7cab426f72adb8023",
+        "message": "Good performance",
+        "satisfaction": 2,
+        "createdAt": "2024-11-07T16:20:55.971Z",
+        "timestamp": "2024-11-07T16:20:55.971Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cee63607d2666b6f91507",
+        "message": "Average Feedback",
+        "satisfaction": 2,
+        "createdAt": "2024-11-07T16:44:19.057Z",
+        "timestamp": "2024-11-07T16:44:19.057Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cee79607d2666b6f91509",
+        "message": "Average Feedback",
+        "createdAt": "2024-11-07T16:44:41.892Z",
+        "timestamp": "2024-11-07T16:44:41.892Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cef11dfa6b147e71eb3a9",
+        "message": "Average Feedback",
+        "satisfaction": 2,
+        "createdAt": "2024-11-07T16:47:13.805Z",
+        "timestamp": "2024-11-07T16:47:13.805Z",
+        "__v": 0
+      },
+      {
+        "_id": "672cef1cdfa6b147e71eb3ab",
+        "message": "lol",
+        "satisfaction": 2,
+        "createdAt": "2024-11-07T16:47:24.182Z",
+        "timestamp": "2024-11-07T16:47:24.182Z",
+        "__v": 0
+      }
+    ],
+    "responses": []
+  }
+}
