@@ -10,7 +10,7 @@ A full-stack Customer Feedback System built with the MERN stack and integrated w
 
 ## 📸 Demo
 
-https://user-images.githubusercontent.com/your-github/video-demo.mp4 *(replace with actual GIF or link)*
+![Untitledvideo-MadewithClipchamp1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a91f7830-e9cb-4220-aaef-5684ae683f81)
 
 ---
 
